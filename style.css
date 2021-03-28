@@ -1,0 +1,17 @@
+html{
+  text-align:center;
+  background-color:greenyellow;
+}
+img{
+  height:300px;
+    width:500px;
+  border-radius:50px;
+  text-decoration:solid;
+}
+img{
+transition: transform .2s;
+border: 10px solid #AAAAAA;
+} 
+img:hover{
+transform: scale(0.9)
+}
